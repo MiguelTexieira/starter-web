@@ -13,3 +13,7 @@ Just contribut if you want.
 ## Deployment
 
 Just click the button... hard! Add more deploy.
+
+## Copyright
+
+Tex copyright is here.
