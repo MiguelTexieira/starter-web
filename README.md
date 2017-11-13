@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Just contribut if you want.
 
 ## Deployment
+
+Just click the button... hard!
