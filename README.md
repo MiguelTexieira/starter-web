@@ -8,7 +8,7 @@ Sample website with plenty of files for demos. It's a purpose.
 
 ## How to Contribute
 
-Just contribut if you want.
+Just contribut if you want. Please a knife with your fork.
 
 ## Deployment
 
