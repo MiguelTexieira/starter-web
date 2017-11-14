@@ -16,4 +16,4 @@ Just click the button... hard! Add more deploy.
 
 ## Copyright
 
-Tex copyright is here.
+2014 Git Training. All rights reserved.
