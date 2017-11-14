@@ -17,3 +17,7 @@ Just click the button... hard! Add more deploy.
 ## Copyright
 
 2014 Git Training. All rights reserved.
+
+## News
+
+No news is good news.
